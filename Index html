@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Download Report di Sostenibilità H&M 2024</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <!-- Header con logo H&M -->
+  <header>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/H%26M-Logo.svg" alt="Logo H&M" class="logo">
+    <h1>Report di Sostenibilità 2024</h1>
+    <p>Scopri l’impegno del Gruppo H&M per un futuro più sostenibile</p>
+  </header>
+
+  <!-- Sezione principale con bottone per il download -->
+  <main>
+    <section class="download-section">
+      <h2>Scarica il report completo in formato PDF</h2>
+      <a href="report-hm-2024.pdf" class="download-button" download>
+        📥 Download Report 2024
+      </a>
+      <p class="note">* Il file è in formato PDF, 12.3 MB</p>
+    </section>
+  </main>
+
+  <!-- Footer semplice con crediti -->
+  <footer>
+    <p>&copy; 2024 H&M Group – Pagina realizzata a scopo accademico</p>
+  </footer>
+
+</body>
+</html>
